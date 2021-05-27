@@ -46,6 +46,14 @@ main {
   padding: 0 var(--contentPadding);
 }
 
+h2, h3 {
+  font-size: inherit;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
 a[href] {
   color: var(--link);
   transition: color var(--transitionTime);
