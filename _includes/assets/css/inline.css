@@ -322,29 +322,3 @@ img.circle {
     margin: 1rem 0; /* Same as paragraph */
   }
 }
-
-a.join-button {
-  display: inline-block;
-  background-color: var(--azure);
-  border-radius: 5px;
-  padding: 0.5em 1em;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-  text-transform: uppercase;
-  transition: background-color var(--transitionTime);
-}
-a.join-button:hover {
-  background-color: var(--brightOrange);
-  color: white;
-}
-@media (prefers-reduced-motion: reduce) {
-  a.join-button {
-    transition: none;
-  }
-}
-a.join-button:active {
-  background-color: var(--azure);
-  position: relative;
-  top: 1px;
-}
