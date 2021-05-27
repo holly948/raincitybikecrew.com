@@ -72,6 +72,13 @@ a[href] {
 a[href]:hover {
   color: var(--linkHover);
 }
+a[href]:focus, a[href]:focus-visible {
+  outline: 2px solid var(--brightOrange);
+  outline-offset: 4px;
+}
+a[href]:focus:not(:focus-visible) {
+  outline: none;
+}
 
 code {
   background-color: rgba(0, 0, 0, 0.5);
@@ -250,9 +257,6 @@ h2, h3 {
   z-index: 1;
   padding: 0.5em 1em;
   background-color: white;
-  border-width: 2px;
-  border-style: none solid solid;
-  border-color: var(--link);
   border-radius: 0 0 3px 3px;
   color: var(--link);
   left: 50%;
