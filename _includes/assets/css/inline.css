@@ -117,11 +117,18 @@ h2, h3 {
   align-items: center;
   gap: 2rem;
 }
+.no-flex-gap #header > *:not(:first-child) {
+  margin-top: 2rem;
+}
 
 @media (min-width: 768px) {
   #header {
     flex-direction: row;
     justify-content: space-between;
+  }
+  .no-flex-gap #header > *:not(:first-child) {
+    margin-top: 0;
+    margin-left: 2rem;
   }
 }
 
@@ -137,9 +144,16 @@ h2, h3 {
   text-decoration: none;
   color: inherit;
 }
+.no-flex-gap #home-link > *:not(:first-child) {
+  margin-top: 1rem;
+}
 @media (min-width: 768px) {
   #home-link {
     flex-direction: row;
+  }
+  .no-flex-gap #home-link > *:not(:first-child) {
+    margin-top: 0;
+    margin-left: 1rem;
   }
 }
 #site-title-lockup {
@@ -179,6 +193,9 @@ h2, h3 {
   color: var(--muted);
   text-align: center;
 }
+.no-flex-gap #header nav ul > *:not(:first-child) {
+  margin-left: 1.5em;
+}
 #header nav a[href] {
   color: inherit;
   text-decoration: none;
@@ -198,11 +215,18 @@ h2, h3 {
   flex-direction: column;
   gap: 4rem;
 }
+.no-flex-gap #footer-flex > *:not(:first-child) {
+  margin-top: 4rem;
+}
 @media (min-width: 768px) {
   #footer-flex {
     flex-direction: row;
     justify-content: center;
     gap: 4rem;
+  }
+  .no-flex-gap #footer-flex > *:not(:first-child) {
+    margin-top: 0;
+    margin-left: 4rem;
   }
 }
 #footer-flex a {
@@ -212,6 +236,9 @@ h2, h3 {
   color: inherit;
   font-weight: bold;
   text-decoration: none;
+}
+.no-flex-gap #footer-flex a > *:not(:first-child) {
+  margin-left: 1rem;
 }
 #footer-flex a .url {
   color: var(--link);
@@ -282,10 +309,17 @@ img.circle {
   flex-direction: column;
   gap: 2rem;
 }
+.no-flex-gap .home-flex > *:not(:first-child) {
+  margin-top: 2rem;
+}
 @media (min-width: 520px) {
   .home-flex {
     flex-direction: row;
     align-items: flex-start;
+  }
+  .no-flex-gap .home-flex > *:not(:first-child) {
+    margin-top: 0;
+    margin-left: 2rem;
   }
 }
 .home-flex > img {
@@ -315,6 +349,9 @@ img.circle {
     display: flex;
     gap: 2rem;
     align-items: flex-start;
+  }
+  .no-flex-gap .section-flex > *:not(:first-child) {
+    margin-left: 2rem;
   }
 
   .section-flex > img {
