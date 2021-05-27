@@ -1,26 +1,88 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: tremby/rcbc
   branch: main # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
 
-media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+media_folder: static/img # Media files will be stored in the repo under images/uploads
 
 collections:
-  # Our pages e.g. About
-  - name: "pages"
-    label: "Page"
-    folder: "pages"
-    create: false # Change to true to allow editors to create new pages
+
+  - label: Pages
+    label_singular: Page
+    name: pages
+    folder: pages
+    create: false
+    delete: false
     slug: "{{slug}}"
+    sortable_fields:
+      - eleventyNavigation.order
+      - title
+      - description
+      - commit_date
+      - commit_author
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
-        name: "eleventyNavigation"
-        widget: "object"
+      - label: Title
+        name: title
+        widget: string
+      - label: Permalink
+        name: permalink
+        widget: string
+      - label: Navigation # https://www.11ty.dev/docs/plugins/navigation/
+        name: eleventyNavigation
+        widget: object
         fields:
-          - { label: "Key", name: "key", widget: "string" }
-          - { label: "Order", name: "order", widget: "number", default: 0 }
-      - { label: "Body", name: "body", widget: "markdown" }
+          - label: Key
+            name: key
+            widget: string
+          - label: Order
+            name: order
+            widget: number
+            default: 0
+      - label: Body
+        name: body
+        widget: markdown
+        modes:
+          - raw
+
+  - label: Settings
+    label_singular: Setting
+    name: settings
+    editor:
+      preview: false
+    files:
+      - label: Metadata
+        name: metadata
+        file: _data/metadata.yaml
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Tagline
+            name: tagline
+            widget: string
+            hint: Shown in the header below the title.
+          - label: Description
+            name: description
+            widget: string
+            hint: Used in page metadata if the page doesn't have its own meta description. Recommended maximum of 25 words.
+          - label: URL
+            name: url
+            widget: string
+            hint: URL to the homepage of the website. This is used for canonical URLs and share images.
+      - label: Social
+        name: social
+        file: _data/social.yaml
+        fields:
+          - label: Discord link
+            name: discordLink
+            widget: string
+          - label: Instagram link
+            name: instagramLink
+            widget: string
+          - label: Instagram handle
+            name: instagramHandle
+            widget: string
+            hint: Don't include the @.
