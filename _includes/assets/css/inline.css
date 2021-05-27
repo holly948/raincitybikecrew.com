@@ -175,7 +175,6 @@ h2, h3 {
   padding: 0;
   display: flex;
   gap: 1.5em;
-  font-family: var(--fontlistHeading);
   text-transform: uppercase;
   color: var(--muted);
   text-align: center;
