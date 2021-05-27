@@ -25,7 +25,7 @@ function detectFlexGap() {
   // Append to the DOM (needed to obtain scrollHeight)
   document.body.appendChild(flex);
   const isSupported = flex.scrollHeight === 1;
-  flex.parentNode?.removeChild(flex);
+  flex.parentNode && flex.parentNode.removeChild(flex);
 
   return isSupported;
 }
