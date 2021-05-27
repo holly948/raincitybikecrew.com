@@ -3,8 +3,11 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const yaml = require("js-yaml");
 
 module.exports = function(eleventyConfig) {
+  // Support YAML data files
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);

@@ -8,12 +8,13 @@ See the live site at TODO
 Data
 ----
 
-Any of the data in [`data/metadata.json`](data/metadata.json) can be included. For example:
+Any of the data in [`_data`](_data) can be included. For example:
 
-- `{{ metadata.title }}` for the site title
-- `{{ metadata.discordLink }}` for the Discord invitation link
-- `{{ metadata.instagramLink }}` for the Instagram link
-- `{{ metadata.instagramHandle }}` for the Instagram handle
+- `{{ metadata.title }}` for the group name
+- `{{ metadata.tagline }}` for the group tagline
+- `{{ social.discordLink }}` for the Discord invitation link
+- `{{ social.instagramLink }}` for the Instagram link
+- `{{ social.instagramHandle }}` for the Instagram handle
 
 Components
 ----------

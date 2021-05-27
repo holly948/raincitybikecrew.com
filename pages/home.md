@@ -17,4 +17,4 @@ We have a pretty great group because we all share the same love of motorcycles, 
 
 The Raincity Bike Crew welcomes Vancouver riders and enthusiasts of all ages, all bike types, all riding styles, all genders, all races, and from all backgrounds. It doesn't matter what motorbike you ride (yes, even scooters!), just so long as you love meeting other riders and being part of a great riding community.
 
-[Click here to join our motorcycle chat group]({{ metadata.discordLink }})
+[Click here to join our motorcycle chat group]({{ social.discordLink }})
