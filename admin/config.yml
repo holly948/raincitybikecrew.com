@@ -37,13 +37,16 @@ collections:
           - label: Key
             name: key
             widget: string
+            hint: The page name as seen in the site navigation.
           - label: Order
             name: order
             widget: number
             default: 0
+            hint: This page's position in the site navigation. Numbers don't need to be sequential, and can be negative.
       - label: Body
         name: body
         widget: markdown
+        hint: This is markdown. See the site readme on Github for details.
         modes:
           - raw
 
