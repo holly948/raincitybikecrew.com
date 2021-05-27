@@ -23,10 +23,6 @@
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
-    {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
 
   <link href="https://fonts.googleapis.com/css2?family=Noticia+Text:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 </head>
