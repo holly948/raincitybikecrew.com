@@ -1,17 +1,17 @@
 :root {
   --azure: #00a3e8;
   --skyBlue: #86c1f5;
-  --aqua: #28d9c7;
   --darkGrey: #303030;
   --grey: #8f8f8f;
   --lightGrey: #dbdbdb;
+  --brightOrange: #eb5c04;
 
   --primary: var(--azure);
   --background: var(--darkGrey);
   --text: var(--lightGrey);
   --muted: var(--grey);
   --link: var(--primary);
-  --linkHover: var(--aqua);
+  --linkHover: var(--brightOrange);
 
   --fontlistBody: "Open Sans", sans-serif;
   --fontlistHeading: "Noticia Text", serif;
