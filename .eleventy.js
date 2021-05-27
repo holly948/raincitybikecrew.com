@@ -54,7 +54,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("logomark-192.png");
   eleventyConfig.addPassthroughCopy("logomark-mask.svg");
   eleventyConfig.addPassthroughCopy("logomark.svg");
-  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("static");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets");
 
