@@ -1,12 +1,11 @@
 ---
 title: Group rules
-metaDescription: The rules of our group. Follow them.
+description: The rules of our group. Follow them.
 permalink: /rules/
 eleventyNavigation:
   key: Group rules
   order: 1
 ---
-
 # Join the Vancouver, BC motorcycle chat group
 
 {% include components/section-start.njk %}
@@ -21,27 +20,23 @@ Play motorcycle photo tag, share pics of your bikes and your pets, talk about an
 
 {% include components/section-end.njk %}
 
----
+- - -
 
 {% include components/section-start.njk %}
 
 ## Discord chat rules
 
 1. No racial, derogatory, overly NSFW/political/religious content. No gore or pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Just keep it respectable, no personal attacks etc.
-
 2. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
-
 3. We have zero tolerance for inappropriate DM'ing of our members.
-
 4. No weeb/fetish/creepy/inappopriate messages.
-
 5. Must be located in or near to Vancouver, British Columbia.
 
 If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message myself or one of the other moderators directly.
 
 {% include components/section-end.njk %}
 
----
+- - -
 
 {% include components/section-start.njk %}
 
@@ -60,4 +55,3 @@ Stop signs/lights - The group should move as one unit. The leader should wait un
 Ride your own ride and at your own pace - We don't promote reckless riding in this group, but if at any time a ride is too fast for you, just let us know and we can slow things down.
 
 {% include components/section-end.njk %}
-

@@ -7,8 +7,8 @@
 
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta property="og:title" content="{{ renderData.title or title or metadata.title }}" />
-  <meta property="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}" />
-  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}" />
+  <meta property="description" content="{{ description or renderData.description or metadata.description }}" />
+  <meta property="og:description" content="{{ description or renderData.description or metadata.description }}" />
 
   <meta property="og:site_name" content="{{ title }}" />
   <meta property="og:type" content="website" />

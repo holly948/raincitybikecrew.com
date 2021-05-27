@@ -1,12 +1,11 @@
 ---
 title: Discord info
-metaDescription: Learn the Discord basics.
+description: Learn the Discord basics.
 permalink: /discord-info/
 eleventyNavigation:
   key: Discord info
   order: 2
 ---
-
 # How to navigate Discord
 
 {% include components/section-start.njk %}
@@ -19,7 +18,7 @@ Learn how to: change nickname, react with emojis, edit and delete comments, quot
 
 {% include components/section-end.njk %}
 
----
+- - -
 
 {% include components/section-start.njk %}
 
@@ -31,7 +30,7 @@ Learn how to: change nickname, react with emojis, edit and delete comments, quot
 
 {% include components/section-end.njk %}
 
----
+- - -
 
 {% include components/section-start.njk %}
 
@@ -41,7 +40,7 @@ Right click on the button for this discord or click the top drop-down menu and s
 
 {% include components/section-end.njk %}
 
----
+- - -
 
 {% include components/section-start.njk %}
 

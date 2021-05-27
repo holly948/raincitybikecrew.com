@@ -6,7 +6,6 @@ eleventyNavigation:
   key: Welcome
   order: 0
 ---
-
 <h1 class="visually-hidden">{{ metadata.title }}</h1>
 
 <big>Hey fellow bike lover! Glad to see you made it. Are you located in Vancouver, Canada?</big>
