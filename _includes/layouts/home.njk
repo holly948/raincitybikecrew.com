@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+section: home
+---
+
+<div class="home-flex">
+
+  <img
+    class="circle"
+    alt=""
+    src="/static/img/card-square-380w.png"
+    width="380" height="380"
+    sizes="(min-width: 768px) 380px, 50vw"
+    srcset="/static/img/card-square-760w.png 760w, /static/img/card-square-380w.png 380w, /static/img/card-square-228w.png 228w, /static/img/card-square-114w.png 114w"
+  />
+
+  <div>
+    {{ layoutContent | safe }}
+  </div>
+
+</div>

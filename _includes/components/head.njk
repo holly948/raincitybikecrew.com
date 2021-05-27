@@ -1,0 +1,32 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="dns-prefetch" href="https://identity.netlify.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{{ renderData.title or title or metadata.title }}</title>
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}" />
+  <meta property="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}" />
+  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}" />
+
+  <meta property="og:site_name" content="{{ title }}" />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" type="image/svg+xml" href="/logomark.svg" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/logomark-192.png" />
+  <link rel="apple-touch-icon" href="/logomark-192.png" />
+  <link rel="mask-icon" href="/logomark-mask.svg" color="rgb(0,163,232)" />
+
+  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {% set css %}
+    {% include "assets/css/inline.css" %}
+  {% endset %}
+  <style>{{ css | cssmin | safe }}</style>
+  {% set js %}
+    {% include "assets/js/inline.js" %}
+  {% endset %}
+  <script>{{ js | jsmin | safe }}</script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Noticia+Text:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+</head>
