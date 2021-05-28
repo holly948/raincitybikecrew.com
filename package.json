@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TODO"
+    "url": "https://github.com/holly948/raincitybikecrew"
   },
   "contributors": [
     {
@@ -23,7 +23,7 @@
     }
   ],
   "license": "UNLICENSED",
-  "homepage": "TODO",
+  "homepage": "https://raincitybikecrew.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "luxon": "^1.25.0",

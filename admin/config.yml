@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tremby/rcbc
+  repo: holly948/raincitybikecrew.com
   branch: main # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts

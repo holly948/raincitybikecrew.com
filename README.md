@@ -3,7 +3,7 @@ Raincity Bike Crew website
 
 Website built by Holly and Bart.
 
-See the live site at TODO
+See the live site at https://raincitybikecrew.com
 
 Deployments
 -----------
@@ -13,7 +13,7 @@ Deployments happen automatically whenever a new change is pushed to the `main` b
 CMS
 ---
 
-The CMS is available at [`/admin/`](TODO/admin/).
+The CMS is available at [`/admin/`](https://raincitybikecrew.com/admin/).
 
 When publishing from the CMS you're making edits in the repository.
 In other words, an edit via the CMS makes a commit and causes a deployment.
