@@ -16,7 +16,7 @@ We have made an online discord chat for Vancouver (Canada) motorcyclists of all 
 
 [Click here to join our motorcycle chat group]({{ social.discordLink }})
 
-Play motorcycle photo tag, share pics of your bikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
+Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
 {% include components/section-end.njk %}
 
@@ -26,7 +26,7 @@ Play motorcycle photo tag, share pics of your bikes and your pets, talk about an
 
 ## Discord chat rules
 
-1. No racial, derogatory, overly NSFW/political/religious content. No gore or pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Just keep it respectable, no personal attacks etc.
+1. No racist/sexist/derogatory/overly NSFW/political/religious content. No gore, and no pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Just keep it respectable, no personal attacks.
 2. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
 3. We have zero tolerance for inappropriate DM'ing of our members.
 4. No weeb/fetish/creepy/inappopriate messages in chat.
