@@ -12,11 +12,11 @@ eleventyNavigation:
 
 Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"!!
 
-We made an online discord chat for Vancouver (Canada) motorcyclists of all ages, all bike types, all riding styles, all genders, all races, and from all backgrounds. If you live near Vancouver, British Columbia, and love motorcycles and meeting new people, then we'd love to have you join! All are welcome <3
+We have made an online discord chat for Vancouver (Canada) motorcyclists of all ages, all bike types, all riding styles, all genders, all races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All are welcome <3
 
 [Click here to join our motorcycle chat group]({{ social.discordLink }})
 
-Play motorcycle photo tag, share pics of your bikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams and get notified of social meetups. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
+Play motorcycle photo tag, share pics of your bikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
 {% include components/section-end.njk %}
 
@@ -29,10 +29,10 @@ Play motorcycle photo tag, share pics of your bikes and your pets, talk about an
 1. No racial, derogatory, overly NSFW/political/religious content. No gore or pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Just keep it respectable, no personal attacks etc.
 2. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
 3. We have zero tolerance for inappropriate DM'ing of our members.
-4. No weeb/fetish/creepy/inappopriate messages.
+4. No weeb/fetish/creepy/inappopriate messages in chat.
 5. Must be located in or near to Vancouver, British Columbia.
 
-If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message myself or one of the other moderators directly.
+If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message one of the Discord moderators directly.
 
 {% include components/section-end.njk %}
 
