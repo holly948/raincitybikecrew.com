@@ -6,21 +6,7 @@ eleventyNavigation:
   key: Group rules
   order: 1
 ---
-# Join the Vancouver, BC motorcycle chat group
-
-{% include components/section-start.njk %}
-
-Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"!!
-
-We have made an online discord chat for Vancouver (Canada) motorcyclists of all ages, all bike types, all riding styles, all genders, all races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All are welcome <3
-
-[Click here to join our motorcycle chat group]({{ social.discordLink }})
-
-Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
-
-{% include components/section-end.njk %}
-
-- - -
+# Rules of the Raincity Bike Crew Discord group
 
 {% include components/section-start.njk %}
 
@@ -53,5 +39,19 @@ Periodically check the riders following using your mirrors - If you see a rider 
 Stop signs/lights - The group should move as one unit. The leader should wait until the whole group is behind them, and only pull out when there's a decent gap to allow the whole group to get through. If there's no opportunity for that, then the leader should get through and pull over at the first opportunity and wait for the whole group to catch up. Only once the whole group is together again should riding commence.
 
 Ride your own ride and at your own pace - We don't promote reckless riding in this group, but if at any time a ride is too fast for you, just let us know and we can slow things down.
+
+{% include components/section-end.njk %}
+
+- - -
+
+{% include components/section-start.njk %}
+
+Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"!!
+
+We have made an online discord chat for Vancouver (Canada) motorcyclists of all ages, all bike types, all riding styles, all genders, all races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All are welcome <3
+
+[Click here to join our motorcycle chat group]({{ social.discordLink }})
+
+Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
 {% include components/section-end.njk %}
