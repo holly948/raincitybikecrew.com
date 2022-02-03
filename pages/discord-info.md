@@ -14,7 +14,7 @@ eleventyNavigation:
 
 Learn how to: change nickname, react with emojis, edit and delete comments, quote a comment, & change your name colour.
 
-[Click here to watch](https://www.youtube.com/watch?v=IIE4SCEwgUU)
+[CLICK HERE TO WATCH](https://www.youtube.com/watch?v=IIE4SCEwgUU)
 
 {% include components/section-end.njk %}
 
