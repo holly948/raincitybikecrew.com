@@ -14,6 +14,8 @@ If you live in or near Vancouver, British Columbia, and you love motorcycles and
 
 The Raincity Bike Crew welcomes Vancouver riders and enthusiasts of all ages, bike types and backgrounds. It doesn't matter what motorbike you ride (yes, even scooters!), just so long as you love meeting other riders and being part of a great riding community. We do not encourage illegal riding or anything to endanger others on group rides. Our group rides tend to be chill, at speed limits and a solid focus on snaccs and drinks along the way!
 
+*If you are unvaccinated, you are not welcome on group rides or any other social meetups. This is for the safety of our group members, their close friends and family, and anyone else they might come in contact with.*
+
 ## Discord chat rules
 
 1. Must be located in or near to Vancouver, British Columbia.
