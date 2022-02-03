@@ -17,7 +17,7 @@ The Raincity Bike Crew welcomes Vancouver riders and enthusiasts of all ages, bi
 ## Discord chat rules
 
 1. Must be located in or near to Vancouver, British Columbia.
-2. No racist/sexist/derogatory/overly NSFW/political/religious content. No gore, and no pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Just keep it respectable, no personal attacks.
+2. No racist/sexist/derogatory/overly NSFW/political/religious content. No gore, and no pics of bike accidents please. Have some common sense. We encourage healthy amounts of swearing. Keep it respectable.
 3. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
 4. We have zero tolerance for inappropriate DM'ing of our members, and this includes no inappopriate messages in chat (weeb/fetish/creepy/porn videos, pictures etc.).
 
