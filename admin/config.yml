@@ -47,8 +47,6 @@ collections:
         name: body
         widget: markdown
         hint: This is markdown. See the site readme on Github for details.
-        modes:
-          - raw
 
   - label: Settings
     label_singular: Setting
