@@ -120,6 +120,9 @@ h2, h3 {
 .no-flex-gap #header > *:not(:first-child) {
   margin-top: 2rem;
 }
+#header img {
+  border-radius: 9999px;
+}
 
 @media (min-width: 768px) {
   #header {
