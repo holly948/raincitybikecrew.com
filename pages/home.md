@@ -1,5 +1,4 @@
 ---
-layout: layouts/home.njk
 title: Raincity Bike Crew
 permalink: /
 eleventyNavigation:
