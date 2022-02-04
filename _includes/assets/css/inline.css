@@ -293,11 +293,11 @@ h2, h3 {
   transform: translateX(-50%);
 }
 
-[data-current="home"] main p:first-of-type big {
+main > p:first-of-type big {
   font-family: var(--fontlistHeading);
   line-height: 1.1;
   font-size: 1.8rem;
-  color: var(--skyBlue);
+  color: var(--brightOrange);
 }
 
 img.circle {
