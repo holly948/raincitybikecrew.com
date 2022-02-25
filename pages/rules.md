@@ -49,8 +49,6 @@ Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "ga
 
 We have made an online Discord chat group for Vancouver (Canada) motorcyclists of all ages, bike types, riding styles, genders, races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All motorcyclists and scooter riders are welcome <3
 
-\[Click here to join our motorcycle chat group]({{ social.discordLink }})
-
 Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and so much more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
 {% include components/section-end.njk %}
