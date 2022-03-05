@@ -24,4 +24,6 @@ The Raincity Bike Crew welcomes Vancouver riders and enthusiasts of all ages, bi
 
 If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message one of the Discord moderators directly.
 
+[Unsure how to use Discord? Click here for some Discord tips and tricks.](https://www.raincitybikecrew.com/discord-info/)
+
 Click on the discord link below to join our group.
