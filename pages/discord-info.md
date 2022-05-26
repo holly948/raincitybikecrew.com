@@ -36,7 +36,7 @@ Learn how to: change nickname, react with emojis, edit and delete comments, quot
 
 ## Turn off all direct messages from this Discord channel
 
-Right click on the button for this discord or click the top drop-down menu and select "privacy settings" and you'll have the options to turn off or on direct messages from users in this discord. This won't turn off messages from users in this discord that you have added as friends - to turn messages off from them also you can remove them as a friend
+Right click on the button for this discord or click the top drop-down menu and select "privacy settings" and you'll have the options to turn off or turn on direct messages from users in this discord. This won't turn off messages from users in this discord that you have added as friends - to turn messages off from them also you can remove them as a friend.
 
 {% include components/section-end.njk %}
 
