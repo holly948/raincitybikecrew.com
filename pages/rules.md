@@ -16,6 +16,7 @@ eleventyNavigation:
 2. No racist/sexist/derogatory/overly NSFW/political/religious content. No gore, and no pics of bike accidents please. Have some common sense. We encourage healthy fucking amounts of swearing. Just don't be a dick!
 3. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
 4. We have zero tolerance for inappropriate DM'ing of our members, and this includes no inappopriate messages in chat (weeb/fetish/creepy/porn videos, pictures etc.).
+5. If you have animals, it's mandatory to post pics of them in the pets channel. We love all floofs! ... *Kind of kidding, but not really. Please post pics of your cuties!*
 
 If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message one of the Discord moderators directly.
 
