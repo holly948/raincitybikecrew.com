@@ -15,9 +15,9 @@ The Raincity Bike Crew welcomes Vancouver riders and enthusiasts of all ages, mo
 
 **NOTE:** Our motorcycle group is for active members only, either active on chat, or actively coming to meetups (or both!). Lurkers will be removed from the group if they have not been active after a month or two.
 
-**WHAT IS DISCORD?** Discord is similar to Slack or WhatsApp. It's a chatroom that is accessed through an app or through your web browser, and there's multiple "rooms" or "channels" for various interests to talk about. For example, we have a channel for pet pics, another for discussing motorcyc;le track days, a channel for gaming and so many more.
+**WHAT IS DISCORD?** Discord is similar to Slack or WhatsApp. It's a chatroom that is accessed through an app or through your web browser, and there's multiple "rooms" or "channels" for various interests to talk about. For example, we have a channel for pet pics, another for discussing motorcycle track days, a channel for gaming and so many more. It's a place to easily chat on various topics, and having multiple channels makes it easier to stay on topic and not interrupt an ongoing conversation by posting in the correct channel. It's the new forum for today's tech savvy riders.
 
-*If you are unvaccinated, you are not welcome on group rides or any other social meetups.*
+*If you are unvaccinated, you are not welcome on group rides or any other social meetups. We do not allow debates on the current pandemic or laws/politics surrounding it. If you're an anti-vaxxer or a Tr#mp lover, this Discord is not for you.*
 
 ## Discord chat rules
 
