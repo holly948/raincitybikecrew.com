@@ -69,6 +69,10 @@ collections:
             name: description
             widget: string
             hint: Used in page metadata if the page doesn't have its own meta description. Recommended maximum of 25 words.
+          - label: Keywords
+            name: keywords
+            widget: string
+            hint: Used in page metadata if the page doesn't have its own meta keywords.
           - label: URL
             name: url
             widget: string
