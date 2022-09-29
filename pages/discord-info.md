@@ -10,6 +10,16 @@ eleventyNavigation:
 
 {% include components/section-start.njk %}
 
+## What is Discord?
+
+Discord is similar to Slack or WhatsApp. It's a chatroom that is accessed through an app or through your web browser, and there's multiple "rooms" or "channels" for various interests to talk about. For example, we have a channel for pet pics, another for discussing motorcycle track days, a channel for gaming, one for your motorcycle garage projects, and so many more. It's a place to easily chat on various topics, and having multiple channels makes it easier to stay on topic and not interrupt an ongoing conversation by posting in the correct channel. It's the new forum for today's tech savvy riders.
+
+{% include components/section-end.njk %}
+
+- - -
+
+{% include components/section-start.njk %}
+
 ## Discord video basics, part 1
 
 Learn how to: change nickname, react with emojis, edit and delete comments, quote a comment, & change your name colour.
@@ -24,9 +34,9 @@ Learn how to: change nickname, react with emojis, edit and delete comments, quot
 
 ## How to mute channels/rooms
 
-**On desktop app:** right-click the channel's name and select "Mute channel." You can then pick how long you'd like to mute the channel for, be it 15 minutes, an hour, or until indefinitely.
+**On desktop:** right-click the channel name and select "Mute channel." You'll then be able to pick how long you'd like to mute the channel for, or change your settings to only be notified about @mentions (when someone pings you).
 
-**On mobile app:** tap the channel's name at the top of the screen, and then the bell icon in the menu that appears. You'll then be able to pick how long you'd like to mute the channel for, or change your settings to only be notified about @mentions (when someone pings you).
+**On mobile:** tap the channel name at the top of the screen, and then the bell icon in the menu that appears. You'll then be able to pick how long you'd like to mute the channel for, or change your settings to only be notified about @mentions (when someone pings you).
 
 {% include components/section-end.njk %}
 
@@ -48,7 +58,7 @@ Right click on the button for this discord or click the top drop-down menu and s
 
 | To get this                                 | Type this                          |
 | ------------------------------------------- | ---------------------------------- |
-| *italics*                                   | `*italics*` or `_italics_`         |
+| *italics*                                   | `*italics*`                        |
 | **bold**                                    | `**bold**`                         |
 | ***bold italics***                          | `***bold italics***`               |
 | <u>underline</u>                            | `__underline__`                    |
