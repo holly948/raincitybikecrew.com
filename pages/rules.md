@@ -46,10 +46,18 @@ Ride your own ride and at your own pace - We don't promote reckless riding in th
 
 {% include components/section-start.njk %}
 
-Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"!!
+Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"! We are a geeky, chill, welcoming, and fun group of people of all ages, ranging from teens to retired folk.
 
-We have made an online Discord chat group for Vancouver (Canada) motorcyclists of all ages, bike types, riding styles, genders, races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All motorcyclists and scooter riders are welcome <3
+We have made an online Discord chat group for Vancouver (Canada) motorcyclists of all ages, bike types, riding styles, genders, races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All motorcyclists and scooter riders are welcome.
 
 Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and so much more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
+
+Our Vancouver motorcycle meetup group enjoys weekly to biweekly social events (ice cream meetups, grabbing a coffee at a moto café, going to Vancouver Warriors lacrosse games, trying out new bars and restaurants, getting competitive and having fun at games nights, going to concerts etc.), and of course, going on motorcycle group rides!
+
+**NOTE:** Our motorcycle group is for active members only, either active on chat, or actively coming to meetups (or both!). Lurkers will be removed from the group if they have not been active after a month or two.
+
+We do not encourage illegal riding or anything to endanger others on group rides. If you're an anti-vaxxer or a Tr#mp lover, or only care about going "fast as f#@& boi", then this Discord is not for you.
+
+**WHAT IS DISCORD?** [Click here to see Discord FAQs and more info.](https://www.raincitybikecrew.com/discord-info/)
 
 {% include components/section-end.njk %}
