@@ -8,6 +8,6 @@ charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-# Netlify CMS doesn't put newlines at the end of files so we shouldn't either (see https://github.com/netlify/netlify-cms/issues/1382)
+# Decap CMS doesn't put newlines at the end of files so we shouldn't either (see https://github.com/decaporg/decap-cms/issues/1382)
 [{_data/**/*.yaml,pages/**/*.md}]
 insert_final_newline = false
