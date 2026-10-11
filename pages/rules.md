@@ -12,11 +12,21 @@ eleventyNavigation:
 
 ## Discord chat rules
 
-1. Must be located in or near to Vancouver, British Columbia.
-2. No racist/sexist/derogatory/overly NSFW/political/religious content. No gore, and no pics of bike accidents please. Have some common sense. We encourage healthy fucking amounts of swearing. Just don't be a dick!
-3. Advertising other discords, or anything that could be seen as annoying to other users is prohibited. This includes self-advertisement and posting links that may be harmful.
-4. We have zero tolerance for inappropriate DM'ing of our members, and this includes no inappopriate messages in chat (weeb/fetish/creepy/porn videos, pictures etc.).
-5. If you have animals, it's mandatory to post pics of them in the pets channel. We love all floofs! ... *Kind of kidding, but not really. Please post pics of your cuties!*
+1️⃣ DON'T BE A DICK! No racist, sexist, homophobic, transphobic, derogatory, overly NSFW, or religious content. No gore, and no pics of bike accidents please. Have some common sense. We do however encourage healthy fucking amounts of swearing
+
+2️⃣ We have zero tolerance for inappropriate DM'ing of our members, and this includes inappropriate messages in chat (weeb/fetish/creepy/porn videos & pictures etc.)
+
+3️⃣ You must be located in, or near to, Vancouver or Vancouver Island, BC, Canada
+
+4️⃣ Advertising scams, posting spam, or anything that could be seen as annoying/harmful to other users, etc. is prohibited. This includes self-advertisement and posting links that are malicious
+
+5️⃣ Politics are only allowed in the politics channel, and no "devils advocate", asshole levels of debating etc. allowed. Keep it NICE, and again, DON'T BE A DICK!
+
+6️⃣ No chat or encouraging of illegal riding practices - if you love riding 40+ over the speed limit and are looking to brag about it and find similar riders to do so with, this is NOT the place to discuss it. If you're a spirited rider, that's fine, but don't chat about it on this discord, and don’t bring that kind of riding onto our group rides.
+
+7️⃣ IF ATTENDING GROUP RIDES, YOU MUST HAVE A VALID MOTORCYCLE LICENCE AND INSURANCE!!
+
+8️⃣ If you have animals, it's mandatory to post pics of them in the pets channel... Kind of kidding, but not really… Please post pics of your cuties! ❤️
 
 If you need to report someone from the chat, or if someone is harassing or spamming you through DMs, please message one of the Discord moderators directly.
 
@@ -46,18 +56,26 @@ Ride your own ride and at your own pace - We don't promote reckless riding in th
 
 {% include components/section-start.njk %}
 
-Welcome to the official Raincity Bike Crew website, Vancouver's softest bike "gang"! We are a geeky, chill, welcoming, and fun group of people of all ages, ranging from teens to retired folk.
+Welcome to the official Raincity and Island Bike Crew website, Vancouver & Vancouver Island’s softest bike "gangs"! We are a geeky, chill, welcoming, and fun group of people of all ages, ranging from teens to retired folk.
 
-We have made an online Discord chat group for Vancouver (Canada) motorcyclists of all ages, bike types, riding styles, genders, races, and from all backgrounds. If you live near Vancouver, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All motorcyclists and scooter riders are welcome.
 
-Play motorcycle photo tag across Vancouver, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and so much more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
-Our Vancouver motorcycle meetup group enjoys weekly to biweekly social events (ice cream meetups, grabbing a coffee at a moto café, going to Vancouver Warriors lacrosse games, trying out new bars and restaurants, getting competitive and having fun at games nights, going to concerts etc.), and of course, going on motorcycle group rides!
+We have made an online Discord chat group for Vancouver (Raincity Bike Crew) and Vancouver Island (Island Bike Crew), for motorcyclists of all ages, bike types, riding styles, genders, races, and from all backgrounds. If you live near Vancouver or Van Island, British Columbia, love motorcycles and meeting new people, enjoy geeking out, and you're keen on trying out new bars or cafes, then we'd love to have you join! All motorcyclists and scooter riders are welcome.
 
-**NOTE:** Our motorcycle group is for active members only, either active on chat, or actively coming to meetups (or both!). Lurkers will be removed from the group if they have not been active after a month or two.
 
-We do not encourage illegal riding or anything to endanger others on group rides. If you're an anti-vaxxer or a Tr#mp lover, or only care about going "fast as f#@& boi", then this Discord is not for you.
+Play motorcycle photo tag across Vancouver and the island, share pics of your motorbikes and your pets, talk about and plan Vancouver motorbike track days or dual sport rides, find people to game online with, talk about your favourite sports teams, get notified of social meetups and so much more. We have something for everyone and are always open to new suggestions to be more inclusive and improve the chat group for all riders to enjoy.
 
-**WHAT IS DISCORD?** [Click here to see Discord FAQs and more info.](https://www.raincitybikecrew.com/discord-info/)
+
+Our Vancouver motorcycle meetup group enjoys weekly to biweekly social events (ice cream meetups, grabbing a coffee at a moto café, going to lacrosse or soccer games, trying out new bars and restaurants, getting competitive and having fun at games nights, going to concerts etc.), and of course, going on motorcycle group rides!
+
+
+**NOTE:** Our motorcycle groups are for active members only, either active on chat, or actively coming to meetups (or both!). Lurkers will be removed from the group if they have not been active after a month or two.
+
+We do not encourage illegal riding or anything to endanger others on group rides. 
+
+If you're an anti-vaxxer or a Tr#mp lover, or only care about going "fast as f#@& boi", then this Discord is not for you.
+
+
+**WHAT IS DISCORD?** [Click here to see Discord FAQs and more info.](https://www.raincitybikecrew.com/discord-info/)
 
 {% include components/section-end.njk %}
