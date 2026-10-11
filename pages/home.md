@@ -43,4 +43,4 @@ We do not encourage illegal riding or anything to endanger others on group rides
 
 # **[Vancouver Discord](https://discord.gg/raincitybikecrew)**
 
-# **[Vancouver Island Discord](https://discord.gg/4MGyAuRBje)**
+# **[Island Discord](https://discord.gg/4MGyAuRBje)**
