@@ -39,5 +39,8 @@ We do not encourage illegal riding or anything to endanger others on group rides
 
 8️⃣ If you have animals, it's mandatory to post pics of them in the pets channel... Kind of kidding, but not really… Please post pics of your cuties! ❤️
 
-
 **Click on the discord link below to join our Vancouver OR Vancouver Island motorbike chat group based on your location**
+
+# **[Vancouver Discord](https://discord.gg/raincitybikecrew)**
+
+# **[Vancouver Island Discord](https://discord.gg/4MGyAuRBje)**
